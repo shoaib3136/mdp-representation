@@ -7,7 +7,7 @@ The MDP Represntation of reaching a college from home without any traffic.
 To travel from home to college in an optimal path where you are not facing any traffic.
 
 ### Problem Description
-To travel from home to college in an optimal path where you are not facing any traffic.
+To reach college from home without any traffic.
 
 ### State Space
 ```
